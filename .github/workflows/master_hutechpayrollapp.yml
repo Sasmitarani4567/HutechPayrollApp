@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'HutechPayrollApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EBE2CB761694A008750A7DFCEBED53F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B81FFB7D33BC4310BA9EAB41CBD2F927 }}
           package: '*.jar'
